@@ -1,0 +1,126 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+header {
+	padding: 20px 0;
+}
+
+/*banner 1 ONE gadis senyum*/
+
+
+.featured {
+	background-color:#FFC400 ;
+	color: white;
+	padding-top: 40px;
+	margin-bottom: 40px;
+    position: absolute;
+    width: 100%;
+}
+
+.layer1 {
+    background:url('../images/bg.png') repeat-x;
+    position: relative;
+}
+
+
+.featured h1{
+	font-size: 60px;
+	margin-top: 0px;
+}
+
+.featured p{
+	font-size: 16px;
+}
+
+
+/*SERVICE*/
+.titleserv {
+	margin-bottom:40px;
+}
+
+/*service two*/
+.servicetwo img {
+	 margin-top: 20px;
+}
+
+/*BANNER VIDEO */
+.featured2 {
+	background-color:#F5F5F5 ;
+	padding: 50px 0px;
+	margin-bottom: 40px;
+	margin-top: 80px;
+    position: absolute;
+    width: 100%;
+	clear: both;
+}
+
+.layer2 {
+    background:url('../images/bg.png') repeat-x;
+    position: relative;
+}
+
+
+.featured2 h1{
+	font-size: 30px;
+	margin-top: 30px;
+	color: #FF7043;
+}
+
+.featured2 p{
+	font-size: 14px;
+}
+
+.featured2 .glyphicon{
+	color: #FF7043;
+}
+
+/*service four*/
+.servicefour img{
+	border: 8px solid #FF7043;
+	box-shadow: 0 0 0 3px #FFAB91;
+	margin-bottom: -90px;
+	z-index: 999;
+	position: relative;
+}
+
+.servicefour .glyphicon{
+	color: #FF7043;
+}
+
+.servicefour p {
+	border-bottom: 1px solid #9E9E9E;
+	margin-bottom: 14px;
+}
+
+.servicefour .panel-body4 {
+	padding: 140px 50px 30px 50px;
+}
+
+/*before end*/
+.featured3 {
+	background-color:#FF5722 ;
+	padding: 30px 0px;
+	margin-top: 30px;
+    width: 100%;
+}
+
+.featured3 p {
+	color: white;
+}
+
+.featured3 h3 {
+	color: white;
+}
+
+/*end*/
+.featured4 {
+	background-color:#DD2C00 ;
+	padding: 10px 0px;
+	margin-bottom: 40px;
+    width: 100%;
+}
+
+.featured4 p {
+	color: white;
+}
